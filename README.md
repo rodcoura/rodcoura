@@ -5,7 +5,6 @@
 I'm a full-stack software engineer with over a decade of experience building scalable web applications for industries ranging from healthcare to enterprise ERPs. I specialize in bridging powerful backends (**C#, ASP.NET Core, Node.js**) with dynamic frontends (**Angular, React**), and I thrive on complex architectural challenges — integrating AI tools, building event-driven microservices, and real-time collaborative systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--r--coura-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-r-coura)
-[![Email](https://img.shields.io/badge/Email-rrcoura%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rrcoura@gmail.com)
 
 ---
 
