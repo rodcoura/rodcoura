@@ -52,8 +52,8 @@ I'm a full-stack software engineer with over a decade of experience building sca
 
 | Company | Role | Period |
 |---|---|---|
-| **AIA Contract Documents** | Full Stack Engineer | 2025 – Present |
 | **Aya Healthcare** | Software Engineer IV | 2022 – Present |
+| **AIA Contract Documents** | Full Stack Engineer | 2025 – 2026 |
 | **CoreBridge** | Team Leader / Full Stack Engineer | 2019 – 2025 |
 | **Simply Tecnologia** | Full Stack Engineer | 2016 – 2019 |
 | **Capgemini** | Full Stack Engineer | 2013 – 2016 |
