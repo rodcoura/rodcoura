@@ -10,6 +10,7 @@ I'm a full-stack software engineer with over a decade of experience building sca
 
 ## 🔭 What I'm working on
 
+- **[OpenHouse](https://github.com/CouraLabs/OpenHouse)** 🏠 — my current project: an open-source, self-hostable household finance app with AI. A shared ledger for the whole house — accounts, cards, recurring transactions, category limits, savings goals, and financial planners. Built with PostgreSQL, NestJS and React.
 - **Real-time collaborative editing** at AIA Contract Documents — 20+ custom CKEditor 5 plugins, YJS CRDTs over SignalR, offline replay with IndexedDB/Dexie, and a Node.js Azure Functions backend for CRDT merge & server-side rendering.
 - **A greenfield Angular 22 SPA** — standalone components, signals-first, NgRx Signals, Tailwind v4 + DaisyUI, Vitest.
 - **Enterprise features at Aya Healthcare** — Angular, ASP.NET Core, Azure Functions, SQL Server, plus Azure AI Search & Azure OpenAI integrations.
