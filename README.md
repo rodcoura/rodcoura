@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Coura 👋
 
-**Full Stack Engineer** · Brazil 🇧🇷 · Working remotely with US-based teams
+**AI Full Stack Engineer** · Brazil 🇧🇷 · Working remotely with US-based teams
 
 I'm a full-stack software engineer with over a decade of experience building scalable web applications for industries ranging from healthcare to enterprise ERPs. I specialize in bridging powerful backends (**C#, ASP.NET Core, Node.js**) with dynamic frontends (**Angular, React**), and I thrive on complex architectural challenges — integrating AI tools, building event-driven microservices, and real-time collaborative systems.
 
