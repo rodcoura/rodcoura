@@ -1,97 +1,40 @@
 # Hi, I'm Rodrigo Coura 👋
 
-**AI Full Stack Engineer** · Brazil 🇧🇷 · Working remotely with US-based teams
+**Senior Full Stack Engineer** · C# .NET · Angular · Azure · Real-time collaboration (YJS, SignalR) & AI agents
 
-I'm a full-stack software engineer with over a decade of experience building scalable web applications for industries ranging from healthcare to enterprise ERPs. I specialize in bridging powerful backends (**C#, ASP.NET Core, Node.js**) with dynamic frontends (**Angular, React**), and I thrive on complex architectural challenges — integrating AI tools, building event-driven microservices, and real-time collaborative systems.
+I have 15 years of experience building enterprise web platforms across healthcare, contract-document management and print-industry ERP. I work remotely from Brazil with US-based teams.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--r--coura-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-r-coura)
+## What I do best
 
----
+- **Real-time collaboration**: YJS CRDTs, SignalR and 20+ custom CKEditor 5 plugins for an enterprise contract-production platform.
+- **Event-driven microservices**: CQRS-style messaging with SignalR and Azure Storage Queues, Azure Functions, Service Bus.
+- **Modern Angular**: standalone components, signals and NgRx Signals, across Angular v14 to v22.
+- **AI-optimized engineering**: I use AI tools like Claude Code and GitHub Copilot to work faster and with higher quality, build custom tools and MCP servers when the work needs them, and have built my own coding tools, Picobu and Claudin, to fit how I work.
 
-## 🔭 What I'm working on
+## Open-source projects ([CouraLabs](https://github.com/CouraLabs))
 
-- **[OpenHouse](https://github.com/CouraLabs/OpenHouse)** 🏠 — my current project: an open-source, self-hostable household finance app with AI. A shared ledger for the whole house — accounts, cards, recurring transactions, category limits, savings goals, and financial planners. Built with PostgreSQL, NestJS and React.
-- **Real-time collaborative editing** at AIA Contract Documents — 20+ custom CKEditor 5 plugins, YJS CRDTs over SignalR, offline replay with IndexedDB/Dexie, and a Node.js Azure Functions backend for CRDT merge & server-side rendering.
-- **A greenfield Angular 22 SPA** — standalone components, signals-first, NgRx Signals, Tailwind v4 + DaisyUI, Vitest.
-- **Enterprise features at Aya Healthcare** — Angular, ASP.NET Core, Azure Functions, SQL Server, plus Azure AI Search & Azure OpenAI integrations.
-- **[picobu](https://github.com/CouraLabs/picobu)** — my personal agentic coding assistant 🤖
+| Project | What it is |
+|---|---|
+| [**Picobu**](https://github.com/CouraLabs/picobu) | Open-source coding agent for the terminal. Plans, edits files, runs commands and verifies its own work, built on the Vercel AI SDK with MCP support, subagents and persistent sessions with undo. |
+| [**Claudin**](https://github.com/CouraLabs/Claudin) | Terminal UI for Claude on the Claude Agent SDK. A local daemon owns the session and the TUI attaches over WebSocket, with resume and read-only replay. |
+| [**OpenHouse**](https://github.com/CouraLabs/OpenHouse) | Self-hostable app for managing a household, with a shared ledger for accounts, cards, transactions, limits and goals. *In development.* |
+| [**pi-adhd**](https://github.com/CouraLabs/pi-adhd) | 14 extensions for the Pi coding agent that make agent output action-first and easier to follow. |
+| [**claude-adhd**](https://github.com/CouraLabs/claude-adhd) | Claude Code plugin with an action-first output style, status line, themes and faster Explore subagents. |
 
-## 🛠️ Tech Stack
+## Tech
 
-**Languages**
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+- **Backend:** C#, ASP.NET Core, .NET 8/9, Entity Framework, Node.js, SignalR, MediatR, CQRS
+- **Frontend:** Angular, NgRx, RxJS, TypeScript, React, Tailwind CSS
+- **Cloud & data:** Azure Functions, Service Bus, Azure AI Search, Azure OpenAI, SQL Server, MongoDB, PostgreSQL, Docker
+- **AI tooling:** Claude Code, GitHub Copilot, Model Context Protocol (MCP), Claude Agent SDK, Vercel AI SDK
 
-**Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Solid](https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat&logo=ngrx&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![CKEditor](https://img.shields.io/badge/CKEditor_5-0287D0?style=flat&logo=ckeditor4&logoColor=white)
+## Currently
 
-**Backend**
-![.NET](https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+- Full Stack Engineer at AIA Contract Documents (real-time collaborative editing, greenfield Angular 22 SPA)
+- Building OpenHouse in my spare time
 
-**Cloud & Data**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Lucene](https://img.shields.io/badge/Apache_Lucene-000000?style=flat&logo=apache&logoColor=white)
+## Get in touch
 
-**Patterns & Interests**: Microservices · Event-driven architecture · CQRS · CRDTs · AI agents · Terminal UIs · 3rd-party integrations
-
-## 💼 Experience
-
-| Company | Role | Period |
-|---|---|---|
-| **Aya Healthcare** | Software Engineer IV | 2022 – Present |
-| **AIA Contract Documents** | Full Stack Engineer | 2025 – 2026 |
-| **CoreBridge** | Team Leader / Full Stack Engineer | 2019 – 2025 |
-| **Simply Tecnologia** | Full Stack Engineer | 2016 – 2019 |
-| **Capgemini** | Full Stack Engineer | 2013 – 2016 |
-| **DAMTEC** | Intern Full Stack Software Engineer | 2011 – 2013 |
-
-<details>
-<summary><b>Highlights</b></summary>
-
-- **AIA Contract Documents** — Built the V2 CKEditor 5 collaboration track behind Azure App Configuration feature flags; engineered the YJS document lifecycle (Y.Doc creation, incremental diffs, state-vector lineage) across CKEditor, a SignalR hub and Node.js; built a resilient SignalR handler with reconnect/back-off, read-only locking and queued-update persistence.
-- **Aya Healthcare** — Built AI tools to speed up feature work and bug investigation; delivered recruiting, compliance, billing and job-search features across Angular, ASP.NET Core, Azure Functions and SQL Server (Flyway migrations, stored procedures, indexing).
-- **CoreBridge** — Architected a CQRS-style event system with SignalR and Azure Storage Queues for microservice communication; sped up a Lucene-based search microservice; fixed RxJS performance issues in a large Angular ERP.
-- **Simply Tecnologia** — Financial apps for clients like Inter, C6 Bank, Unimed and Banco do Brasil using Angular, Node.js, ASP.NET Core and AWS.
-
-</details>
-
-## 🎓 Education
-
-- **PUC Minas** — Associate's degree, Computer Software Engineering (2014 – 2015)
-- **PUC Minas** — Bachelor's degree, Information Technology (2010 – 2013)
-- **Oasis Digital** — Enterprise Angular Developer (2021)
-
-## 🏆 Honors
-
-- Microsoft Student to Business
-- Innovative Technological Project
-
-## 🌐 Languages
-
-Portuguese (native) · English (full professional)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodcoura&show_icons=true&hide_border=true" alt="Rodrigo's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodcoura&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
+- LinkedIn: [linkedin.com/in/rodrigo-r-coura](https://www.linkedin.com/in/rodrigo-r-coura/)
+- Email: [rrcoura@gmail.com](mailto:rrcoura@gmail.com)
+- Open to senior and lead full-stack roles (remote)
